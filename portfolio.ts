@@ -32,7 +32,7 @@ export const socialLinks: SocialLinksType = {
   email: "mailto:talentedCoder0910@gmail.com",
   outlook: "mailto:talentedCoder0910@outlook.com",
   // linkedin: "https://www.linkedin.com/in/1hanzla100/",
-  github: "https://github.com/talentedCoder0910",
+  github: "https://github.com/Dream7-Kim",
   // instagram: "https://www.instagram.com/__hanzla100",
   // facebook: 'https://www.facebook.com/1hanzla100',
   // twitter: 'https://twitter.com/1hanzla100',
