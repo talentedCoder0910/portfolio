@@ -30,6 +30,7 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   email: "mailto:talentedCoder0910@gmail.com",
+  outlook: "mailto:talentedCoder0910@outlook.com",
   // linkedin: "https://www.linkedin.com/in/1hanzla100/",
   github: "https://github.com/talentedCoder0910",
   // instagram: "https://www.instagram.com/__hanzla100",
